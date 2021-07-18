@@ -5,7 +5,7 @@ Create HS256 and RS256 Token with PHP
 ##### Summary
 To use the HS256 Token firstly we must create private key and certificate. You can follow the following steps 
 to create them. `I put private key and certificate under the "certificates" folder. 
-Because this JWT class get private key and certificate content under the "certificates" folder`
+Because this JWT class get private key and certificate content under the "certificates" folder.`
 - Create private key the following command.
 ```
 openssl genrsa -out private.key 2048
