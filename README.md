@@ -79,8 +79,8 @@ echo $jwt->getJWTToken();
 </pre>
 
 #### LAST
- [If you want to create Token online then click](https://jwt.io/)
- [If you want to look at working code](http://okesmez.com/JWT/test.php)
+ - [If you want to create Token online then click](https://jwt.io/)
+ - [If you want to look at working code](http://okesmez.com/JWT/test.php)
 
 
 
