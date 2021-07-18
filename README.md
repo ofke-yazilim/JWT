@@ -64,7 +64,7 @@ $token_header = array(
 //if you HS256 Token then you must use token payload.
 $token_payload = [
     "name" => "omer faruk",
-    "surname" => "kesmez",
+    "surname" => "__",
     "city" => "istanbul",
     "province" => "marmara"
 ];
